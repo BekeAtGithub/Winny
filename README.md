@@ -1,5 +1,5 @@
 The Winny Jenkins - Windows Performance Toolkit
-QUICK USAGE:
+##  QUICK USAGE:
 
 Right click "EXECUTABLE.ps1" and run as powershell 
 or - open powershell, navigate to this directory and just call it through cmd line
