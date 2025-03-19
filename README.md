@@ -13,6 +13,13 @@ then it will run for an hour or so, and you can monitor the usage the entire tim
 ![alt text](https://github.com/BekeAtGithub/WinnyJenkins/blob/main/2%20Step%20Instructions.png)
 
 
+!! TROUBLESHOOTING
+
+If you get an error about Unauthorized Access due to Policy like this;powershell script execution policy bypass
+just run the command a little different like this;
+powershell.exe -ExecutionPolicy Bypass -File ".\EXECUTE.ps1"
+
+
 ## For detailed Overview: 
 Winny = Just a fun nickname for Windows :) 
 The Winny Jenkins - Windows Performance Toolkit is a comprehensive tool to collect, monitor, and analyze detailed system performance metrics on Windows 11. The script tracks CPU usage, memory utilization, event logs, and scheduled tasks to provide insights into system performance.
