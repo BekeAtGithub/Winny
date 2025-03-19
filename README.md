@@ -11,7 +11,7 @@ by default this outputs to your LOCAL desktop, not your one-drive desktop , but 
 give it 2-3 minutes, then look for "Dashboard_bunchofnumbers_forthedate.html"  - not exactly that title, but something like that 
 then it will run for an hour or so, and you can monitor the usage the entire time 
 
-
+![alt text](https://github.com/BekeAtGithub/WinnyJenkins/blob/main/2%20Step%20Instructions.png)
 
 
 ## For detailed Overview: 
