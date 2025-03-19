@@ -1,13 +1,12 @@
 The Winny Jenkins - Windows Performance Toolkit
 ##  QUICK USAGE:
 
-Right click "EXECUTABLE.ps1" and run as powershell 
-or - open powershell, navigate to this directory and just call it through cmd line
 
-Click Install - a powershell window will pop up, make sure to press "Y" on the first prompt, and just go through the installation options :) , for minimal problems, just use default choices
-Once installed, close the window, and click "Run Monitor"
+- STEP 1 : Right click "EXECUTABLE.ps1" and run as powershell - or - open powershell, navigate to this directory and just call it through cmd line
 
-by default this outputs to your LOCAL desktop, not your one-drive desktop , but local desktop 
+ - STEP 2 : Click Install - a powershell window will pop up, make sure to press "Y" on the first prompt, and just go through the installation options :) , for minimal problems, just use default choices - Once installed, close the window, and click "Run Monitor"
+
+* by default this outputs to your LOCAL desktop, not your one-drive desktop , but local desktop 
 give it 2-3 minutes, then look for "Dashboard_bunchofnumbers_forthedate.html"  - not exactly that title, but something like that 
 then it will run for an hour or so, and you can monitor the usage the entire time 
 
