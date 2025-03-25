@@ -1,8 +1,11 @@
 The Winny Jenkins - Windows Performance Toolkit 
 ##  QUICK USAGE: 
 
+![alt text](https://github.com/BekeAtGithub/Winny/blob/main/Step1download.png)
 
-- STEP 1 : Right click "EXECUTABLE.ps1" and run as powershell - or - open powershell, navigate to this directory and just call it through cmd line
+- STEP 1 : Right click "EXECUTABLE.ps1" and run as powershell - or - open powershell, navigate to this directory and just call it through cmd line; run this if you get unauthorized access due to policy : powershell.exe -ExecutionPolicy Bypass .\EXECUTABLE.ps1
+
+ ![alt text](https://github.com/BekeAtGithub/Winny/blob/main/Step2run.png)
 
  - STEP 2 : Click Install - a powershell window will pop up, make sure to press "Y" on the first prompt, and just go through the installation options :) , for minimal problems, just use default choices - Once installed, close the window, and click "Run Monitor"
 
@@ -11,13 +14,6 @@ give it 2-3 minutes, then look for "Dashboard_bunchofnumbers_forthedate.html"  -
 then it will run for an hour or so, and you can monitor the usage the entire time 
 
 ![alt text](https://github.com/BekeAtGithub/WinnyJenkins/blob/main/2%20Step%20Instructions.png)
-
-
-!! TROUBLESHOOTING
-
-If you get an error about Unauthorized Access due to Policy like this;powershell script execution policy bypass
-just run the command a little different like this;
-powershell.exe -ExecutionPolicy Bypass -File ".\EXECUTE.ps1"
 
 
 ## For detailed Overview: 
