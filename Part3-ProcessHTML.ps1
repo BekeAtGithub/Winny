@@ -1,6 +1,3 @@
-
-
-
 # Function to create or update Process HTML file
 function Update-ProcessHTML {
     # Generate HTML
