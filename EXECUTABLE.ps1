@@ -2,7 +2,7 @@ function Show-WinnyJenkinsGUI {
     Add-Type -AssemblyName System.Windows.Forms
     Add-Type -AssemblyName System.Drawing
 
-    # Create the main form
+    # Create the main form 
     $form = New-Object System.Windows.Forms.Form
     $form.Text = "Winny Jenkins - Windows 11 Performance Monitor Toolkit"
     $form.Size = New-Object System.Drawing.Size(500, 300)
