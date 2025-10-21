@@ -1,6 +1,6 @@
 
 
-# Add debugging
+# Add debugging 
 Write-Host "Script started" -ForegroundColor Cyan
 
 # This file contains the code to execute the monitoring script
