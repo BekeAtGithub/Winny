@@ -1,4 +1,4 @@
-# Main Script - Winny Jenkins - Windows Performance Toolkit
+# Main Script - Winny Jenkins - Windows Performance Toolkit 
 
 # Function to collect detailed process information
 function Get-ProcessDetails {
