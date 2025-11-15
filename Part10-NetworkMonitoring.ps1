@@ -1,6 +1,6 @@
 
 
-# Function to collect network information
+# Function to collect network information.
 function Get-NetworkInformation {
     $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
     Write-Host "Collecting network information..." -ForegroundColor Cyan
